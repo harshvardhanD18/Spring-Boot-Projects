@@ -71,3 +71,8 @@ Each project follows clean architecture principles, RESTful APIs, and proper exc
 1. Clone the repo:
    ```bash
    git clone https://github.com/your-username/springboot-projects.git
+cd hospital-management
+./mvnw spring-boot:run
+This project is licensed under the MIT License - see the LICENSE file for details.
+🙋‍♂️ Author
+Harsh Vardhan Chouhan
